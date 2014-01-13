@@ -9,6 +9,8 @@ public class Runner {
 		dc.display();
 		test();	
 		
+		System.out.println("End of runner");
+		
 	}
 
 	private static void test() 
