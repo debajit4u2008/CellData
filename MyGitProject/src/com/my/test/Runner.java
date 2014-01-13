@@ -16,6 +16,7 @@ public class Runner {
 	private static void test() 
 	{
 		System.out.println("Hi test");
+		System.out.println("Hi test1");
 		
 	}
 
